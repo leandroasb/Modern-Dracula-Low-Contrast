@@ -1,16 +1,42 @@
-# modern-dracula-low-contrast README
+# 🧛 Modern Dracula Low Contrast
 
-## Working with Markdown
+A modern take on the classic **Dracula** theme — now with a **softer, low-contrast palette**.  
+Designed for developers who value **comfortable readability**, a **balanced look**, and a **modern touch**.
 
-You can author your README using Visual Studio Code. Here are some useful editor keyboard shortcuts:
+## ✨ Features
 
--   Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux).
--   Toggle preview (`Shift+Cmd+V` on macOS or `Shift+Ctrl+V` on Windows and Linux).
--   Press `Ctrl+Space` (Windows, Linux, macOS) to see a list of Markdown snippets.
+-   🎨 Smooth and elegant color palette
+-   👓 Reduced contrast to minimize eye strain
+-   💻 Perfect for long coding sessions
+-   ⚡ Works beautifully with multiple languages & syntaxes
+-   🖥️ Clean, minimal, and modern design
 
-## For more information
+## 📸 Examples
 
--   [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
--   [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
+### HTML
 
-**Enjoy!**
+![HTML Example](https://p1.imghit.xyz/2025/09/04/html.png)
+
+### TSX (React + TypeScript)
+
+![TSX Example](https://p1.imghit.xyz/2025/09/04/tsx.png)
+
+### CSS
+
+![CSS Example](https://p1.imghit.xyz/2025/09/04/css.png)
+
+### JSON
+
+![JSON Example](https://p1.imghit.xyz/2025/09/04/json.png)
+
+## 🚀 Why Modern Dracula?
+
+If you love the **Dracula Theme** but find the strong contrast a bit harsh,  
+**Modern Dracula Low Contrast** is the perfect alternative.
+
+It blends **accessibility** with **style**, creating a development environment that’s both **functional and pleasant**.
+
+---
+
+🔗 Inspired by: [Dracula Low Contrast](https://marketplace.visualstudio.com/items?itemName=NAPTheDevHcj.dracula-low-contrast)  
+📦 Available for: **Visual Studio Code**
