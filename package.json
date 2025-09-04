@@ -2,7 +2,8 @@
 	"name": "modern-dracula-low-contrast",
 	"displayName": "Modern Dracula Low Contrast",
 	"publisher": "ModernDraculaLowContrast",
-	"description": "",
+	"description": "A modern low-contrast take on the Dracula theme — softer colors, less eye strain, perfect for long coding sessions.",
+	"icon": "images/theme-modern-dracula-low-contrast.png",
 	"version": "0.0.1",
 	"engines": {
 		"vscode": "^1.103.0"
@@ -13,7 +14,7 @@
 	"contributes": {
 		"themes": [
 			{
-				"label": "leandroasb",
+				"label": "Modern Dracula Low Contrast",
 				"uiTheme": "vs-dark",
 				"path": "./themes/leandroasb-color-theme.json"
 			}
