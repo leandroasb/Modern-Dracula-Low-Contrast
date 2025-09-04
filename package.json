@@ -4,7 +4,7 @@
 	"publisher": "ModernDraculaLowContrast",
 	"description": "A modern low-contrast take on the Dracula theme — softer colors, less eye strain, perfect for long coding sessions.",
 	"icon": "images/theme-modern-dracula-low-contrast.png",
-	"version": "0.0.1",
+	"version": "0.0.2",
 	"engines": {
 		"vscode": "^1.103.0"
 	},
