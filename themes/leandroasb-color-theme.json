@@ -917,7 +917,7 @@
 				"punctuation.section.embedded.begin",
 				"punctuation.section.embedded.coffee",
 				"punctuation.section.embedded.end",
-				"punctuation.section.embedded.end source.php",
+				// "punctuation.section.embedded.end source.php",
 				"punctuation.section.embedded.end source.ruby",
 				"punctuation.definition.variable.makefile"
 			],
